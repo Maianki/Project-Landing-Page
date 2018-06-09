@@ -1,0 +1,27 @@
+
+body{
+	background: url("back.jpg");
+	background-size: cover;
+	background-position: center;
+}
+html{
+	height: 100%;
+}
+	h1{
+	color:white;
+	font-weight: 700;
+	font-size: 4em;
+	text-shadow: 0px 4px 3px red;
+}
+h3{
+	color:white;
+	text-shadow: 0px 4px 3px red;
+}
+hr{
+	width: 450px;
+}
+
+	#content{
+     text-align: center;
+     padding-top: 25%;
+}
